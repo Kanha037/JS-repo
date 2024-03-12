@@ -24,12 +24,17 @@
 
  // In case of undefined Comparision
 //All comparision are false output
- console.log(undefined < 0)
- console.log(undefined <= 0)
- console.log(undefined >= 0)
- console.log(undefined > 0)
- console.log(undefined > 0)
- console.log(undefined == 0)
+//  console.log(undefined < 0)
+//  console.log(undefined <= 0)
+//  console.log(undefined >= 0)
+//  console.log(undefined > 0)
+//  console.log(undefined > 0)
+//  console.log(undefined == 0)
+ 
+// strict comparision '==='
+// console.log("2"===2);
 
+// const x=100.300001;
+// console.log(typeof x);
 
 

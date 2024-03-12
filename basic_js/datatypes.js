@@ -14,4 +14,6 @@ let state=null;
 //Symbol
 
 // Object
-console.log(typeof undefined)
+// console.log(typeof undefined)
+let n=10000000n
+console.log(typeof n)
